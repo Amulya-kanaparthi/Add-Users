@@ -40,7 +40,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         case 2:
             femaleButton.setImage(UIImage(named: "checkedbox"), for: .normal)
         default:
-            print("nothing")
+            print("something")
         }
     }
 
